@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">智能水母投喂器</string>
+<!--    <string name="app_name">OneNet_MQTT</string>-->
+    <string name="led_status">&#xe6d9;</string>
+</resources>
